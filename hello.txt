@@ -1,6 +1,11 @@
 hjfgh
 kjgj
+<<<<<<< HEAD
+hganskcma
+a
+Ax,X
+skcscfazd
+=======
 
 hello teju.. how are you
 
-bye bye
