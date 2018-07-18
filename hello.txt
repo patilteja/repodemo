@@ -1,6 +1,11 @@
 hjfgh
 kjgj
+<<<<<<< HEAD
 hganskcma
 a
 Ax,X
 skcscfazd
+=======
+
+hello teju.. how are you
+>>>>>>> 6ea88dd00ee1d0a43e0072ebde25d52084776ae1
